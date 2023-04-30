@@ -39,7 +39,10 @@ a {
   color: #18d26e;
   text-decoration: none;
 }
-
+.imgg-fluid{
+  height: 300px;
+  width: 300px;
+}
 a:hover {
   color: #35e888;
   text-decoration: none;
